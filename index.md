@@ -6,8 +6,11 @@ title: DSC 180A Methodology Assignment 4
 # DSC 180A Methodology Assignment 4
 
 **Name:** Nicolas Toon
+
 **Email:** [nitoon@ucsd.edu](mailto:nitoon@ucsd.edu)
+
 **Section:** D43 - AI-Powered Cloud Microscopy for Growing Mini-Organs in the Lab
+
 **Mentor:** Reem Khojah
 
 ---
@@ -18,8 +21,6 @@ The most interesting topic we covered in our domain this quarter was organoid gr
 resembling miniature versions of real organs. What I found most fascinating is how many visible signs of growth and development there are, and how much those morphological features can tell us about 
 whether an organoid is developing healthily. Two examples are infolds and rosettes. Infolds occur when the tissue layer folds inward on itself, which is a crucial sign for healthy development. It shows 
 that the expanding tissues are maximizing their surface area in which they can grow. Rosettes signal that the cells are organizing into structured, functional tissue instead of clumping randomly.
-
-**2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
